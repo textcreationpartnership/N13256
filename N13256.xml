@@ -112,14 +112,15 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:016759_0000_0F9DEF332DFF15E0"/>
-            <pb facs="tcp:016759_0001_0F9DEF3625497C88" rendition="simple:additions"/>
+            <pb facs="unknown:016759_0000_0F9DEF332DFF15E0"/>
+            <pb facs="unknown:016759_0001_0F9DEF3625497C88"
+                rendition="simple:additions"/>
             <p>THE PROGRESS OF SCIENCE. A POEM Delivered at HARVARD COLLEGE Before a Committee of Overſeers, April 21, 1780.</p>
             <p>By a JUNIOR SOPHISTER.</p>
             <p>Printed in the Year 1780.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:016759_0002_0F9DEF37805DEAF8"/>
+            <pb facs="unknown:016759_0002_0F9DEF37805DEAF8"/>
             <p>It is humbly preſumed that the Youth of the Author will be eſteemed by the Candid a ſufficient Apology for any juvenile Errors in the following Poem.</p>
             <epigraph>
                <q>
@@ -135,7 +136,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:016759_0003_0F9DEF38CD84FBB8"/>
+            <pb n="3" facs="unknown:016759_0003_0F9DEF38CD84FBB8"/>
             <head>THE PROGRESS OF SCIENCE.</head>
             <lg>
                <l>LET martial ſouls, whom wild ambition warms,</l>
@@ -153,7 +154,7 @@
                <l>Bleſt by kind nature with a gen'rous ſoil,</l>
                <l>That yielded herbage, tho' not dreſs'd with toil,</l>
                <l>
-                  <pb n="4" facs="tcp:016759_0004_0F9DEF3930079FB0"/>In philoſophic eaſe they paſs'd their years,</l>
+                  <pb n="4" facs="unknown:016759_0004_0F9DEF3930079FB0"/>In philoſophic eaſe they paſs'd their years,</l>
                <l>And watch'd the motions of the rolling Spheres.</l>
                <l>Their modeſt wants plain Nature could redreſs,</l>
                <l>And Science gave them rural happineſs.</l>
@@ -178,7 +179,7 @@
                <l>At length it fell—but from its ruins roſe</l>
                <l>A vagrant band to ſubjugate their foes.</l>
                <l>
-                  <pb n="5" facs="tcp:016759_0005_0F9DEF39EFBB4CA0"/>Imperial Rome, the miſtreſs of the world,</l>
+                  <pb n="5" facs="unknown:016759_0005_0F9DEF39EFBB4CA0"/>Imperial Rome, the miſtreſs of the world,</l>
                <l>Towns, cities, kingdoms into ruin hurl'd,</l>
                <l>And reign'd ſupreme alone. Greece felt her force,</l>
                <l>Nor ſtem'd the torrent in its rapid courſe;</l>
@@ -204,7 +205,7 @@
                <l>Enchants, enraptures, and ſubdues our ſouls.</l>
             </lg>
             <lg>
-               <pb n="6" facs="tcp:016759_0006_0F9DEF3AB8C0ABD8"/>
+               <pb n="6" facs="unknown:016759_0006_0F9DEF3AB8C0ABD8"/>
                <l>Behold far north the gath'ring tempeſt riſe,</l>
                <l>Ruſhing impetuous, as the whirlwind flies;</l>
                <l>Towns, cities, kingdoms from their baſis fall,</l>
@@ -233,7 +234,7 @@
                <l>A ſtain—a blot upon hiſtoric page.</l>
             </lg>
             <lg>
-               <pb n="7" facs="tcp:016759_0007_0F9DEF3B719B4F70"/>
+               <pb n="7" facs="unknown:016759_0007_0F9DEF3B719B4F70"/>
                <l>As when cold Zembla, wrapt in darkeſt ſhade,</l>
                <l>Firſt ſees the Sun erect his radiant head,</l>
                <l>In gratitude to the benignant power,</l>
@@ -259,7 +260,7 @@
                <l>He trac'd the planets thro' their mazy road,</l>
                <l>Caught wand'ring comets in their dark abode,</l>
                <l>
-                  <pb n="8" facs="tcp:016759_0008_0F9DEF3C40786068"/>Explor'd great nature's univerſal chain,</l>
+                  <pb n="8" facs="unknown:016759_0008_0F9DEF3C40786068"/>Explor'd great nature's univerſal chain,</l>
                <l>Hung earth ſelf-ballanc'd in the vaſt inane,</l>
                <l>Unfolded the philoſophy of light,</l>
                <l>Taught us why this is black, why that is white,</l>
@@ -283,7 +284,7 @@
                <l>Teaching mankind the great Creator's plan;</l>
                <l>Yet leſs admire the author than the man.</l>
                <l>
-                  <pb n="9" facs="tcp:016759_0009_0F9DEF3F6B88C680"/>Great in himſelf, he could with pleaſure leave</l>
+                  <pb n="9" facs="unknown:016759_0009_0F9DEF3F6B88C680"/>Great in himſelf, he could with pleaſure leave</l>
                <l>The tinfel'd greatneſs that a Court can give,</l>
                <l>Refuſe a place—a penſion, and retire</l>
                <l>From glitt'ring pomp, to fan celeſtial fire.</l>
@@ -309,7 +310,7 @@
                <l>And adoration univerſal reign.</l>
             </lg>
             <lg>
-               <pb n="10" facs="tcp:016759_0010_0F9DEF4066AD3EC0"/>
+               <pb n="10" facs="unknown:016759_0010_0F9DEF4066AD3EC0"/>
                <l>Hail, beauteous Goddeſs! here erect thy ſeat,</l>
                <l>Let infant Harvard be thy fam'd retreat.</l>
             </lg>
